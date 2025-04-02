@@ -1,6 +1,7 @@
 # Name: Migration script
 # Description: This script will remove the endpoint from Workspace ONE management and re-enroll it into Microsoft Intune.
-# Developed by: zoran.topalovic
+# Developed by: Zoran Topalovic 
+# email: topalovic@gmail.com
 # Date: 22.01.2025
 
 Add-Type -AssemblyName System.Windows.Forms
